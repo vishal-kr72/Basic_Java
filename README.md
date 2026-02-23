@@ -11,3 +11,15 @@ Logical reasoning
 Interview-focused coding preparation
 
 This project contains well-structured Java programs covering basic to advanced mathematical concepts commonly asked in coding interviews.
+
+Develop strong problem-solving abilities
+
+Improve algorithmic thinking
+
+Understand time and space complexity
+
+Prepare for technical interviews
+
+Master mathematical logic implementation without relying on built-in shortcuts
+
+This repository is ideal for students, beginners, and MCA/B.Tech learners who want to improve their core logic-building skills.
