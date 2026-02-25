@@ -22,4 +22,4 @@ Prepare for technical interviews
 
 Master mathematical logic implementation without relying on built-in shortcuts
 
-This repository is ideal for students, beginners, and MCA/B.Tech learners who want to improve their core logic-building skills.
+This repository is ideal for students, beginners, and MCA learners who want to improve their core logic-building skills.
