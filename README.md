@@ -14,9 +14,9 @@ This project contains well-structured Java programs covering basic to advanced m
 
 Develop strong problem-solving abilities.
 
-Improve algorithmic thinking.
-
 Understand time and space complexity.
+
+Improve algorithmic thinking.
 
 Prepare for technical interviews.
 
